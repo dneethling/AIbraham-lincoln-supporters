@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abraham-lincoln-supporters/static/css/main.d61c3a06.css",
+    "main.js": "/abraham-lincoln-supporters/static/js/main.be8adb8c.js",
+    "index.html": "/abraham-lincoln-supporters/index.html",
+    "main.d61c3a06.css.map": "/abraham-lincoln-supporters/static/css/main.d61c3a06.css.map",
+    "main.be8adb8c.js.map": "/abraham-lincoln-supporters/static/js/main.be8adb8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d61c3a06.css",
+    "static/js/main.be8adb8c.js"
+  ]
+}
